@@ -87,6 +87,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mehul-ui141/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3838-weighted-word-mapping](https://github.com/Mehul-ui141/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [1929-concatenation-of-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mehul-ui141/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mehul-ui141/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/Mehul-ui141/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mehul-ui141/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2833-furthest-point-from-origin](https://github.com/Mehul-ui141/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3838-weighted-word-mapping](https://github.com/Mehul-ui141/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
