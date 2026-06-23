@@ -17,6 +17,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Mehul-ui141/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/Mehul-ui141/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1854-maximum-population-year](https://github.com/Mehul-ui141/Leetcode/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/Mehul-ui141/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/Mehul-ui141/Leetcode/tree/master/1854-maximum-population-year) |
 ## Matrix
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Mehul-ui141/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1854-maximum-population-year](https://github.com/Mehul-ui141/Leetcode/tree/master/1854-maximum-population-year) |
 ## Sorting
 |  |
 | ------- |
