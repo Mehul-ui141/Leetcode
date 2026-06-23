@@ -33,6 +33,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mehul-ui141/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Mehul-ui141/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mehul-ui141/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -229,6 +230,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehul-ui141/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mehul-ui141/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mehul-ui141/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Mehul-ui141/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Mehul-ui141/Leetcode/tree/master/0832-flipping-an-image) |
@@ -242,6 +244,7 @@
 | [0191-number-of-1-bits](https://github.com/Mehul-ui141/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mehul-ui141/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Mehul-ui141/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Mehul-ui141/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0832-flipping-an-image](https://github.com/Mehul-ui141/Leetcode/tree/master/0832-flipping-an-image) |
@@ -286,6 +289,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehul-ui141/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Mehul-ui141/Leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Mehul-ui141/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mehul-ui141/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
