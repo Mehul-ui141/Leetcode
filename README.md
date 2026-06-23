@@ -11,6 +11,7 @@
 | [0031-next-permutation](https://github.com/Mehul-ui141/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mehul-ui141/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Mehul-ui141/Leetcode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Mehul-ui141/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -198,6 +199,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mehul-ui141/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehul-ui141/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -254,6 +256,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mehul-ui141/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mehul-ui141/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Mehul-ui141/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Number Theory
