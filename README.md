@@ -110,6 +110,7 @@
 | [0258-add-digits](https://github.com/Mehul-ui141/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Mehul-ui141/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mehul-ui141/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Mehul-ui141/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Mehul-ui141/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -276,5 +277,6 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Mehul-ui141/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Mehul-ui141/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mehul-ui141/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
