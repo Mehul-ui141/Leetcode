@@ -24,6 +24,7 @@
 | [1672-richest-customer-wealth](https://github.com/Mehul-ui141/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/Mehul-ui141/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/Mehul-ui141/Leetcode/tree/master/1854-maximum-population-year) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mehul-ui141/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/Mehul-ui141/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mehul-ui141/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -54,6 +55,7 @@
 | [0867-transpose-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Mehul-ui141/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mehul-ui141/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mehul-ui141/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
 |  |
