@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mehul-ui141/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mehul-ui141/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Mehul-ui141/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/Mehul-ui141/Leetcode/tree/master/0724-find-pivot-index) |
@@ -119,6 +120,7 @@
 | [0217-contains-duplicate](https://github.com/Mehul-ui141/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mehul-ui141/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehul-ui141/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Mehul-ui141/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -140,6 +142,7 @@
 | [0169-majority-element](https://github.com/Mehul-ui141/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mehul-ui141/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehul-ui141/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mehul-ui141/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting Sort
@@ -181,6 +184,7 @@
 | [0189-rotate-array](https://github.com/Mehul-ui141/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mehul-ui141/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mehul-ui141/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Mehul-ui141/Leetcode/tree/master/0832-flipping-an-image) |
 | [2540-minimum-common-value](https://github.com/Mehul-ui141/Leetcode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mehul-ui141/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -224,6 +228,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Mehul-ui141/Leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Mehul-ui141/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mehul-ui141/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2540-minimum-common-value](https://github.com/Mehul-ui141/Leetcode/tree/master/2540-minimum-common-value) |
