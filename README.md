@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Mehul-ui141/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Mehul-ui141/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mehul-ui141/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehul-ui141/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Mehul-ui141/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Mehul-ui141/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0867-transpose-matrix) |
@@ -116,6 +118,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Mehul-ui141/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Mehul-ui141/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mehul-ui141/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Mehul-ui141/Leetcode/tree/master/0205-isomorphic-strings) |
