@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mehul-ui141/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/Mehul-ui141/Leetcode/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Mehul-ui141/Leetcode/tree/master/0066-plus-one) |
@@ -138,6 +139,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Mehul-ui141/Leetcode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehul-ui141/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Mehul-ui141/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mehul-ui141/Leetcode/tree/master/0344-reverse-string) |
