@@ -204,6 +204,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Mehul-ui141/Leetcode/tree/master/0278-first-bad-version) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mehul-ui141/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Queue
 |  |
@@ -213,4 +214,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Mehul-ui141/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
