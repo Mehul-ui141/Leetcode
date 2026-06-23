@@ -13,6 +13,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Mehul-ui141/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0169-majority-element](https://github.com/Mehul-ui141/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Mehul-ui141/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Mehul-ui141/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/Mehul-ui141/Leetcode/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Mehul-ui141/Leetcode/tree/master/0832-flipping-an-image) |
@@ -53,6 +54,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mehul-ui141/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Mehul-ui141/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/Mehul-ui141/Leetcode/tree/master/1854-maximum-population-year) |
@@ -160,4 +162,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mehul-ui141/Leetcode/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mehul-ui141/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
