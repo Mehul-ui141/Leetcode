@@ -34,6 +34,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Mehul-ui141/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mehul-ui141/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/Mehul-ui141/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/Mehul-ui141/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/Mehul-ui141/Leetcode/tree/master/1854-maximum-population-year) |
@@ -114,6 +115,7 @@
 | [0075-sort-colors](https://github.com/Mehul-ui141/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mehul-ui141/Leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehul-ui141/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mehul-ui141/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting Sort
 |  |
 | ------- |
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mehul-ui141/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mehul-ui141/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 <!---LeetCode Topics End-->
