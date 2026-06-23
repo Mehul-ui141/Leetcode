@@ -154,6 +154,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mehul-ui141/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/Mehul-ui141/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Counting
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/Mehul-ui141/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mehul-ui141/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2833-furthest-point-from-origin](https://github.com/Mehul-ui141/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Dynamic Programming
 |  |
 | ------- |
