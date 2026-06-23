@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehul-ui141/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mehul-ui141/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -29,6 +30,7 @@
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Mehul-ui141/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
@@ -53,4 +55,12 @@
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mehul-ui141/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
