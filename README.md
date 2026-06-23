@@ -69,6 +69,7 @@
 | [2540-minimum-common-value](https://github.com/Mehul-ui141/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mehul-ui141/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mehul-ui141/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
@@ -133,6 +134,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mehul-ui141/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Mehul-ui141/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
