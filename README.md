@@ -107,6 +107,7 @@
 | [0189-rotate-array](https://github.com/Mehul-ui141/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Mehul-ui141/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Mehul-ui141/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Mehul-ui141/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0877-stone-game) |
@@ -185,6 +186,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
@@ -260,4 +262,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mehul-ui141/Leetcode/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
