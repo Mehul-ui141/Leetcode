@@ -14,6 +14,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Mehul-ui141/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mehul-ui141/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mehul-ui141/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mehul-ui141/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -165,6 +166,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/Mehul-ui141/Leetcode/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Greedy
