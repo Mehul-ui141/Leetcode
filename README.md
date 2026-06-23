@@ -42,6 +42,7 @@
 | [0566-reshape-the-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mehul-ui141/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Mehul-ui141/Leetcode/tree/master/0724-find-pivot-index) |
+| [0810-chalkboard-xor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0832-flipping-an-image](https://github.com/Mehul-ui141/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0877-stone-game) |
@@ -131,6 +132,7 @@
 | [0367-valid-perfect-square](https://github.com/Mehul-ui141/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Mehul-ui141/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mehul-ui141/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0810-chalkboard-xor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/1025-divisor-game) |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0292-nim-game) |
+| [0810-chalkboard-xor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/1025-divisor-game) |
 ## Two Pointers
@@ -254,6 +257,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Mehul-ui141/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Mehul-ui141/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0810-chalkboard-xor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0832-flipping-an-image](https://github.com/Mehul-ui141/Leetcode/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -320,6 +324,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Mehul-ui141/Leetcode/tree/master/0319-bulb-switcher) |
+| [0810-chalkboard-xor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1025-divisor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
