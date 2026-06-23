@@ -139,6 +139,7 @@
 | [0877-stone-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/1025-divisor-game) |
+| [1033-moving-stones-until-consecutive](https://github.com/Mehul-ui141/Leetcode/tree/master/1033-moving-stones-until-consecutive) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mehul-ui141/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -335,6 +336,7 @@
 | [0319-bulb-switcher](https://github.com/Mehul-ui141/Leetcode/tree/master/0319-bulb-switcher) |
 | [0810-chalkboard-xor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1025-divisor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/1025-divisor-game) |
+| [1033-moving-stones-until-consecutive](https://github.com/Mehul-ui141/Leetcode/tree/master/1033-moving-stones-until-consecutive) |
 ## Recursion
 |  |
 | ------- |
