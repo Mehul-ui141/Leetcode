@@ -343,4 +343,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mehul-ui141/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Mehul-ui141/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
