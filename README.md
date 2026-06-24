@@ -466,6 +466,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mehul-ui141/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Mehul-ui141/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mehul-ui141/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Mehul-ui141/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mehul-ui141/Leetcode/tree/master/0231-power-of-two) |
@@ -529,6 +530,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mehul-ui141/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Mehul-ui141/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mehul-ui141/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Mehul-ui141/Leetcode/tree/master/0206-reverse-linked-list) |
