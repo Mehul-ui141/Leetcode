@@ -423,4 +423,20 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mehul-ui141/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Tree
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1302-deepest-leaves-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1302-deepest-leaves-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1302-deepest-leaves-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1302-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
