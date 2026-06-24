@@ -86,6 +86,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Mehul-ui141/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mehul-ui141/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/Mehul-ui141/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1833-maximum-ice-cream-bars](https://github.com/Mehul-ui141/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mehul-ui141/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/Mehul-ui141/Leetcode/tree/master/1840-maximum-building-height) |
 | [1854-maximum-population-year](https://github.com/Mehul-ui141/Leetcode/tree/master/1854-maximum-population-year) |
@@ -263,6 +264,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehul-ui141/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Mehul-ui141/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mehul-ui141/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1833-maximum-ice-cream-bars](https://github.com/Mehul-ui141/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mehul-ui141/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/Mehul-ui141/Leetcode/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/Mehul-ui141/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -270,6 +272,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehul-ui141/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Mehul-ui141/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
 | ------- |
@@ -371,6 +374,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Mehul-ui141/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mehul-ui141/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1833-maximum-ice-cream-bars](https://github.com/Mehul-ui141/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mehul-ui141/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mehul-ui141/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Mehul-ui141/Leetcode/tree/master/2126-destroying-asteroids) |
