@@ -303,6 +303,7 @@
 | [0344-reverse-string](https://github.com/Mehul-ui141/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Mehul-ui141/Leetcode/tree/master/0832-flipping-an-image) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mehul-ui141/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-ui141/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mehul-ui141/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/Mehul-ui141/Leetcode/tree/master/2540-minimum-common-value) |
@@ -470,6 +471,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mehul-ui141/Leetcode/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mehul-ui141/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-ui141/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
