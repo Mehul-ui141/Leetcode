@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mehul-ui141/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Mehul-ui141/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Mehul-ui141/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Mehul-ui141/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0055-jump-game) |
@@ -262,6 +263,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mehul-ui141/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Mehul-ui141/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehul-ui141/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -285,6 +287,7 @@
 | [0011-container-with-most-water](https://github.com/Mehul-ui141/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Mehul-ui141/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Mehul-ui141/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Mehul-ui141/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Mehul-ui141/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehul-ui141/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -458,5 +461,10 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mehul-ui141/Leetcode/tree/master/0042-trapping-rain-water) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-ui141/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Mehul-ui141/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
