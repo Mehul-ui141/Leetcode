@@ -15,6 +15,7 @@
 | [0039-combination-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Mehul-ui141/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Mehul-ui141/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Mehul-ui141/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Mehul-ui141/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0055-jump-game) |
@@ -129,6 +130,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mehul-ui141/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Mehul-ui141/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Mehul-ui141/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mehul-ui141/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mehul-ui141/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Mehul-ui141/Leetcode/tree/master/0168-excel-sheet-column-title) |
