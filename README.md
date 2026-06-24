@@ -131,6 +131,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mehul-ui141/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2270-number-of-ways-to-split-array](https://github.com/Mehul-ui141/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
+| [2485-find-the-pivot-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Mehul-ui141/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
@@ -179,6 +180,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mehul-ui141/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mehul-ui141/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Mehul-ui141/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2485-find-the-pivot-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
