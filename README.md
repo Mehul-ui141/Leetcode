@@ -66,6 +66,7 @@
 | [0810-chalkboard-xor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0832-flipping-an-image](https://github.com/Mehul-ui141/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Mehul-ui141/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Mehul-ui141/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mehul-ui141/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -442,6 +443,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Mehul-ui141/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Mehul-ui141/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Mehul-ui141/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mehul-ui141/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mehul-ui141/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mehul-ui141/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
