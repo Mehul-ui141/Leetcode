@@ -27,6 +27,7 @@
 | [0066-plus-one](https://github.com/Mehul-ui141/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Mehul-ui141/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mehul-ui141/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Mehul-ui141/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mehul-ui141/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mehul-ui141/Leetcode/tree/master/0118-pascals-triangle) |
@@ -155,6 +156,7 @@
 | [0054-spiral-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Mehul-ui141/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Mehul-ui141/Leetcode/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Mehul-ui141/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0867-transpose-matrix) |
@@ -296,6 +298,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Mehul-ui141/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Mehul-ui141/Leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Mehul-ui141/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehul-ui141/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Mehul-ui141/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -526,6 +529,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mehul-ui141/Leetcode/tree/master/0079-word-search) |
 | [1302-deepest-leaves-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
@@ -540,6 +544,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Mehul-ui141/Leetcode/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
