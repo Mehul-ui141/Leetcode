@@ -219,6 +219,7 @@
 | [1840-maximum-building-height](https://github.com/Mehul-ui141/Leetcode/tree/master/1840-maximum-building-height) |
 | [2485-find-the-pivot-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
 | ------- |
