@@ -117,6 +117,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mehul-ui141/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mehul-ui141/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mehul-ui141/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mehul-ui141/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -164,6 +165,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/Mehul-ui141/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2485-find-the-pivot-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Mehul-ui141/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mehul-ui141/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -226,6 +228,7 @@
 | [1840-maximum-building-height](https://github.com/Mehul-ui141/Leetcode/tree/master/1840-maximum-building-height) |
 | [2485-find-the-pivot-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mehul-ui141/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mehul-ui141/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mehul-ui141/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -270,6 +273,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mehul-ui141/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mehul-ui141/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -285,6 +289,7 @@
 | [1854-maximum-population-year](https://github.com/Mehul-ui141/Leetcode/tree/master/1854-maximum-population-year) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mehul-ui141/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2833-furthest-point-from-origin](https://github.com/Mehul-ui141/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mehul-ui141/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -468,6 +473,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mehul-ui141/Leetcode/tree/master/0258-add-digits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mehul-ui141/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mehul-ui141/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mehul-ui141/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mehul-ui141/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -507,6 +513,7 @@
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mehul-ui141/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2540-minimum-common-value](https://github.com/Mehul-ui141/Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mehul-ui141/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mehul-ui141/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Mehul-ui141/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -676,4 +683,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Mehul-ui141/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mehul-ui141/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
