@@ -103,6 +103,7 @@
 | [1920-build-array-from-permutation](https://github.com/Mehul-ui141/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mehul-ui141/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mehul-ui141/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mehul-ui141/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -226,6 +227,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mehul-ui141/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/Mehul-ui141/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1840-maximum-building-height](https://github.com/Mehul-ui141/Leetcode/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mehul-ui141/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -473,6 +475,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mehul-ui141/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mehul-ui141/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mehul-ui141/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mehul-ui141/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
