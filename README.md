@@ -391,6 +391,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehul-ui141/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Mehul-ui141/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Mehul-ui141/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mehul-ui141/Leetcode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Mehul-ui141/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -621,11 +622,13 @@
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1302-deepest-leaves-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Mehul-ui141/Leetcode/tree/master/0079-word-search) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1302-deepest-leaves-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mehul-ui141/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -638,6 +641,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1302-deepest-leaves-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Backtracking
 |  |
