@@ -363,6 +363,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mehul-ui141/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Mehul-ui141/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mehul-ui141/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -403,6 +404,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mehul-ui141/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Mehul-ui141/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Mehul-ui141/Leetcode/tree/master/0053-maximum-subarray) |
@@ -435,6 +437,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mehul-ui141/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Mehul-ui141/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mehul-ui141/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mehul-ui141/Leetcode/tree/master/0016-3sum-closest) |
