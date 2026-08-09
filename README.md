@@ -75,6 +75,7 @@
 | [0904-fruit-into-baskets](https://github.com/Mehul-ui141/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mehul-ui141/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1140-stone-game-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mehul-ui141/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Mehul-ui141/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -168,6 +169,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Mehul-ui141/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehul-ui141/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mehul-ui141/Leetcode/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mehul-ui141/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -233,6 +235,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/1025-divisor-game) |
 | [1033-moving-stones-until-consecutive](https://github.com/Mehul-ui141/Leetcode/tree/master/1033-moving-stones-until-consecutive) |
+| [1140-stone-game-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mehul-ui141/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -430,6 +433,7 @@
 | [0509-fibonacci-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mehul-ui141/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Mehul-ui141/Leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Mehul-ui141/Leetcode/tree/master/1406-stone-game-iii) |
@@ -445,6 +449,7 @@
 | [0810-chalkboard-xor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mehul-ui141/Leetcode/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
@@ -780,9 +785,11 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mehul-ui141/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mehul-ui141/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
