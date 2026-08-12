@@ -123,6 +123,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Mehul-ui141/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mehul-ui141/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mehul-ui141/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mehul-ui141/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mehul-ui141/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -299,6 +300,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mehul-ui141/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2540-minimum-common-value](https://github.com/Mehul-ui141/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mehul-ui141/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mehul-ui141/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mehul-ui141/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -611,6 +613,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehul-ui141/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mehul-ui141/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mehul-ui141/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mehul-ui141/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Interactive
 |  |
 | ------- |
