@@ -251,6 +251,7 @@
 | [1406-stone-game-iii](https://github.com/Mehul-ui141/Leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Mehul-ui141/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1840-maximum-building-height](https://github.com/Mehul-ui141/Leetcode/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/Mehul-ui141/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Mehul-ui141/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -410,6 +411,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehul-ui141/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1773-count-items-matching-a-rule](https://github.com/Mehul-ui141/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mehul-ui141/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/Mehul-ui141/Leetcode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mehul-ui141/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mehul-ui141/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2833-furthest-point-from-origin](https://github.com/Mehul-ui141/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -463,6 +465,7 @@
 | [1025-divisor-game](https://github.com/Mehul-ui141/Leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mehul-ui141/Leetcode/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/Mehul-ui141/Leetcode/tree/master/1927-sum-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -533,6 +536,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Mehul-ui141/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mehul-ui141/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mehul-ui141/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Mehul-ui141/Leetcode/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mehul-ui141/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Mehul-ui141/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
