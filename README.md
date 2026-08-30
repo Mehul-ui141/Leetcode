@@ -116,6 +116,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mehul-ui141/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mehul-ui141/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mehul-ui141/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2126-destroying-asteroids](https://github.com/Mehul-ui141/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mehul-ui141/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -553,6 +554,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mehul-ui141/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Mehul-ui141/Leetcode/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mehul-ui141/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mehul-ui141/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Mehul-ui141/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mehul-ui141/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
