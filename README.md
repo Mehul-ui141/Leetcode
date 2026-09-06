@@ -414,6 +414,7 @@
 | [0038-count-and-say](https://github.com/Mehul-ui141/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Mehul-ui141/Leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Mehul-ui141/Leetcode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Mehul-ui141/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehul-ui141/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Mehul-ui141/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -459,6 +460,7 @@
 | [0045-jump-game-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Mehul-ui141/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mehul-ui141/Leetcode/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/Mehul-ui141/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Mehul-ui141/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehul-ui141/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
