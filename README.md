@@ -735,6 +735,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1302-deepest-leaves-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mehul-ui141/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -742,6 +743,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1302-deepest-leaves-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Mehul-ui141/Leetcode/tree/master/1306-jump-game-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mehul-ui141/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mehul-ui141/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Mehul-ui141/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -759,6 +761,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1302-deepest-leaves-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mehul-ui141/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |
