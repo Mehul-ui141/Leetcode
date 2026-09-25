@@ -333,6 +333,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Mehul-ui141/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Mehul-ui141/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Mehul-ui141/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehul-ui141/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehul-ui141/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -399,6 +400,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Mehul-ui141/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mehul-ui141/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mehul-ui141/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Mehul-ui141/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Mehul-ui141/Leetcode/tree/master/1340-jump-game-v) |
@@ -454,6 +456,7 @@
 | [0771-jewels-and-stones](https://github.com/Mehul-ui141/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0940-distinct-subsequences-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mehul-ui141/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehul-ui141/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehul-ui141/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mehul-ui141/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -787,6 +790,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1302-deepest-leaves-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Mehul-ui141/Leetcode/tree/master/1306-jump-game-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mehul-ui141/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -806,6 +810,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Mehul-ui141/Leetcode/tree/master/0079-word-search) |
+| [1096-brace-expansion-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
@@ -832,6 +837,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Mehul-ui141/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/Mehul-ui141/Leetcode/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mehul-ui141/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mehul-ui141/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
