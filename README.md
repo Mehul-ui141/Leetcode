@@ -453,6 +453,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Mehul-ui141/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Mehul-ui141/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mehul-ui141/Leetcode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Mehul-ui141/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Mehul-ui141/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Mehul-ui141/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mehul-ui141/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -810,6 +811,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Mehul-ui141/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1302-deepest-leaves-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Mehul-ui141/Leetcode/tree/master/1306-jump-game-iii) |
@@ -831,6 +833,7 @@
 | [0022-generate-parentheses](https://github.com/Mehul-ui141/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Mehul-ui141/Leetcode/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/Mehul-ui141/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
