@@ -121,6 +121,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mehul-ui141/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mehul-ui141/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mehul-ui141/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mehul-ui141/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mehul-ui141/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2126-destroying-asteroids](https://github.com/Mehul-ui141/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -431,6 +432,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mehul-ui141/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/Mehul-ui141/Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mehul-ui141/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mehul-ui141/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Mehul-ui141/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mehul-ui141/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mehul-ui141/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -727,6 +729,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Mehul-ui141/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehul-ui141/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mehul-ui141/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mehul-ui141/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mehul-ui141/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mehul-ui141/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Mehul-ui141/Leetcode/tree/master/2540-minimum-common-value) |
