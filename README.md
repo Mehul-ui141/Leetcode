@@ -84,6 +84,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Mehul-ui141/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Mehul-ui141/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Mehul-ui141/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Mehul-ui141/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mehul-ui141/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mehul-ui141/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -252,6 +253,7 @@
 | [0867-transpose-matrix](https://github.com/Mehul-ui141/Leetcode/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Mehul-ui141/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Mehul-ui141/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Mehul-ui141/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mehul-ui141/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1572-matrix-diagonal-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Mehul-ui141/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -414,6 +416,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Mehul-ui141/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mehul-ui141/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehul-ui141/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Mehul-ui141/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/Mehul-ui141/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1854-maximum-population-year](https://github.com/Mehul-ui141/Leetcode/tree/master/1854-maximum-population-year) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mehul-ui141/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -744,6 +747,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mehul-ui141/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Mehul-ui141/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Mehul-ui141/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mehul-ui141/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mehul-ui141/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mehul-ui141/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -888,6 +892,7 @@
 | [0079-word-search](https://github.com/Mehul-ui141/Leetcode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Mehul-ui141/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Mehul-ui141/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Mehul-ui141/Leetcode/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mehul-ui141/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -901,6 +906,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Mehul-ui141/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Mehul-ui141/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Mehul-ui141/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Mehul-ui141/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/Mehul-ui141/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Mehul-ui141/Leetcode/tree/master/1306-jump-game-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mehul-ui141/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
